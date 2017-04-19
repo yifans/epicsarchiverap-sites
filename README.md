@@ -1,5 +1,6 @@
-A Site-Specific (ESS) EPICS Archiver Appliance Deployment
+A Site-Specific (NSRL) EPICS Archiver Appliance Deployment
 =================
+based on the A Site-Specific (ESS) EPICS Archiver Appliance Deployment : https://github.com/jeonghanlee/epicsarchiverap-sites
 
 # Requirements
 

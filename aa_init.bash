@@ -129,7 +129,7 @@ ${SUDO_CMD} -v
 preparation; 
 
 git_src_name="epicsarchiverap-sites";
-git_src_url="https://github.com/jeonghanlee";
+git_src_url="https://github.com/yifans";
 git_src_dir=${SC_TOP}/${git_src_name};
 
 git_clone "${git_src_dir}" "${git_src_url}" "${git_src_name}" ; 
